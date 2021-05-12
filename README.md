@@ -1,2 +1,3 @@
-# ramzgram
-A telegram not that generates random password for you
+# Ramzgram
+
+A telegram bot that generates random password for you
